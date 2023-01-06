@@ -1,0 +1,15 @@
+D:\Projetos\C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.AssemblyReference.cache
+D:\Projetos\C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfoInputs.cache
+D:\Projetos\C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.AssemblyInfo.cs
+D:\Projetos\C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.exe
+D:\Projetos\C#\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.deps.json
+D:\Projetos\C#\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.runtimeconfig.json
+D:\Projetos\C#\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.dll
+D:\Projetos\C#\ByteBank\ByteBank\bin\Debug\net6.0\ByteBank.pdb
+D:\Projetos\C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.dll
+D:\Projetos\C#\ByteBank\ByteBank\obj\Debug\net6.0\refint\ByteBank.dll
+D:\Projetos\C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.pdb
+D:\Projetos\C#\ByteBank\ByteBank\obj\Debug\net6.0\ByteBank.genruntimeconfig.cache
+D:\Projetos\C#\ByteBank\ByteBank\obj\Debug\net6.0\ref\ByteBank.dll
