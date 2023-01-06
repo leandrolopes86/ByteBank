@@ -39,7 +39,7 @@ namespace ByteBank
 
         public void Transferencia(Conta contaOrigem, Conta contaDestino, double valor)
         {
-            contaOrigem.Saldo -= contaOrigem.Saldo - valor;
+            contaOrigem.Saldo = contaOrigem.Saldo - valor;
             contaDestino.Saldo = contaDestino.Saldo + valor;
         }
 
